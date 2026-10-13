@@ -41,5 +41,6 @@ The dashboard is designed for:
 
 <img width="1570" height="937" alt="Screenshot 2026-10-13 144557" src="https://github.com/user-attachments/assets/d45dcf3c-3b7a-4c81-952a-13de6afdf3f5" />
 <img width="1550" height="922" alt="Screenshot 2026-10-13 144729" src="https://github.com/user-attachments/assets/e28d1ddd-96fe-44a8-93b4-914b7e1e1ae5" />
-<img width="768" height="498" alt="Screenshot 2026-10-13 144508" src="https://github.com/user-attachments/assets/df0a0db7-c0d2-4d67-94e3-19d17d62aad3" />
+<img width="1247" height="956" alt="Screenshot 2026-10-13 143440" src="https://github.com/user-attachments/assets/ea57f971-120f-4d4d-b8ad-b71f7f3e6bfd" />
+
 
